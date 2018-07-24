@@ -1,1 +1,2 @@
-puts "Wh"
+puts "What is the guests name?"
+name = 
